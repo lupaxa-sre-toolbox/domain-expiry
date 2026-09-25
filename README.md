@@ -4,15 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">domain-expiry</h1>
+<h1 align="center">Domain Expiry</h1>
 
 Look up domain name expiration dates over WHOIS.
-
-<p align="center">
-  <a href="https://domain-expiry.thelupaxaproject.org/">Documentation</a>
-  ·
-  <a href="https://github.com/lupaxa-sre-toolbox/domain-expiry">GitHub</a>
-</p>
 
 ## Install
 
@@ -52,6 +46,13 @@ make python-install-dev
 make python-check
 make mkdocs-serve
 ```
+
+## Documentation
+
+The published guide is at
+<https://domain-expiry.thelupaxaproject.org/>.
+
+Site Markdown lives in `mkdocs/`.
 
 <a href="https://github.com/the-lupaxa-project">
     <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/components/footer-for-child-orgs.svg" alt="The Lupaxa Project Footer" width="100%" />

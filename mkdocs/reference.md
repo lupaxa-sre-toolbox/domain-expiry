@@ -7,7 +7,7 @@
 | `domain-expiry`                  | The installed command                    |
 | `python -m lupaxa.domain_expiry` | The same program, run as a Python module |
 
-## CLI arguments
+## CLI Arguments
 
 | Flag                | Default   | Description                                          |
 | :------------------ | :-------- | :--------------------------------------------------- |
@@ -24,7 +24,7 @@
 Pass several names as separate arguments, or separate them with commas.
 With no domains, the command prints the same text as `--help` and exits `2`.
 
-## Exit codes
+## Exit Codes
 
 | Code | When                                                                               |
 | :--- | :--------------------------------------------------------------------------------- |

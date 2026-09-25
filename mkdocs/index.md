@@ -13,10 +13,3 @@ Every name is a row. A past date shows `Expired`. A name the registry does
 not know shows `Available`. A lookup that succeeds without a date shows
 `unpublished`. A name that is not a domain shows `Invalid Domain`. A query
 failure, including a connection timeout, shows the error in the date column.
-
-## Next steps
-
-- [Getting started](getting-started.md) — install and first run
-- [Usage](usage.md) — output, CLI flags, and the library API
-- [Reference](reference.md) — defaults, exit codes, and API names
-- [Examples](examples.md) — common lookup recipes

@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "lupaxa-domain-expiry"
 dynamic = ["version"]
 description = "Look up domain name expiration dates over WHOIS."
-readme = "README-PYPI.md"
+readme = "README.md"
 license = { file = "LICENCE" }
 requires-python = ">=3.13"
 
@@ -70,7 +70,6 @@ path = "src/lupaxa/domain_expiry/version.py"
 include = [
   "src/**",
   "README.md",
-  "README-PYPI.md",
   "LICENCE",
 ]
 

@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 
 ## Requirements
 
@@ -13,7 +13,7 @@ pip install lupaxa-domain-expiry
 domain-expiry --help
 ```
 
-## First run
+## First Run
 
 ```bash
 domain-expiry example.com example.org
@@ -29,7 +29,7 @@ Module entry point:
 python -m lupaxa.domain_expiry --version
 ```
 
-### From source (development)
+### From Source (Development)
 
 ```bash
 make init
@@ -37,7 +37,7 @@ make python-install-dev
 domain-expiry --version
 ```
 
-## Makefile helpers
+## Makefile Helpers
 
 ```bash
 make python-check
